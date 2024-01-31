@@ -1,30 +1,6 @@
-# React + TypeScript + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![image](https://github.com/KromSanya/WebLaboratory/assets/135069778/616a98d6-93fd-4a21-a01d-312aa79fed8f)
+![image](https://github.com/KromSanya/WebLaboratory/assets/135069778/d921bb6a-c08b-43d1-bbd0-4409e1a63e6e)
+![image](https://github.com/KromSanya/WebLaboratory/assets/135069778/63d3bb25-ff4c-41b8-b3ea-cc314fe475c3)
+![image](https://github.com/KromSanya/WebLaboratory/assets/135069778/f0e5b4c0-4c9e-4d62-8cae-ffa4fee061ad)
+![image](https://github.com/KromSanya/WebLaboratory/assets/135069778/197282a0-b01d-4574-80c9-414e992c5697)
+![image](https://github.com/KromSanya/WebLaboratory/assets/135069778/2145ea88-68a5-4efd-825e-23295d235dfd)
